@@ -1,0 +1,227 @@
+shotgun_seq_id,sample_id,timepoint3,study_id,cohort_n,header,invSimp,count
+210122-UC-022.01,UC_022_01,pre-transplant,UC-022,47,pre-transplant (47),3.3289360294219814,3040560
+230809-LD-492.01,LD_492_01,early post-transplant,UC-188,57,early post-transplant (57),1.0914909508043649,5055951
+210630-LD-011.04,LD_011_04,pre-transplant,UC-064,47,pre-transplant (47),9.39989992706826,8074546
+210630-LD-020.01,LD_020_01,pre-transplant,UC-065,47,pre-transplant (47),3.7781673712625965,6958588
+210226-UC-033.02,UC_033_02,early post-transplant,UC-033,57,early post-transplant (57),15.614383855582924,6230930
+211025-UC-017.02,UC_017_02,early post-transplant,UC-017,57,early post-transplant (57),2.5126415045442223,8951108
+230809-UC-198.01,UC_198_01,early post-transplant,UC-198,57,early post-transplant (57),2.895110418404326,3970435
+201209-UC-015.01,UC_015_01,early post-transplant,UC-015,57,early post-transplant (57),8.728554906444966,2554367
+220614-LD-315.04,LD_315_04,early post-transplant,UC-137,57,early post-transplant (57),14.13360489681733,11144267
+211126-LD-206.05,LD_206_05,pre-transplant,UC-103,47,pre-transplant (47),33.37588227696206,7553097
+211106-LD-171.01,LD_171_01,pre-transplant,UC-088,47,pre-transplant (47),1.3242202421139466,8265713
+210811-LD-102.03,LD_102_03,pre-transplant,UC-079,47,pre-transplant (47),1.0042029243267645,9971101
+210828-LD-060.05,LD_060_05,pre-transplant,UC-073,47,pre-transplant (47),1.0549389884262212,8343354
+210811-LD-110.02,LD_110_02,pre-transplant,UC-078,47,pre-transplant (47),1,4115
+220401-UC-124.01,UC_124_01,pre-transplant,UC-124,47,pre-transplant (47),21.94067370297259,5921383
+210125-UC-031.01,UC_031_01,pre-transplant,UC-031,47,pre-transplant (47),1.0380963820752365,6640952
+211203-LD-202.04,LD_202_04,pre-transplant,UC-099,47,pre-transplant (47),2.1551275913493995,11652357
+210417-UC-050.01,UC_050_01,early post-transplant,UC-050,57,early post-transplant (57),1.2139161488999644,6219211
+220207-LD-218.06,LD_218_06,early post-transplant,UC-114,57,early post-transplant (57),13.214743012816223,8447008
+210122-UC-021.02,UC_021_02,early post-transplant,UC-021,57,early post-transplant (57),4.0898878718160985,5298888
+220706-LD-136.14,LD_136_14,early post-transplant,UC-083,57,early post-transplant (57),1.7624579447883661,6710891
+210305-UC-036.01,UC_036_01,early post-transplant,UC-036,57,early post-transplant (57),1.3811948051190028,7928895
+211106-UC-084.02,UC_084_02,early post-transplant,UC-084,57,early post-transplant (57),5.1504613954063485,10090032
+210828-UC-072.01,UC_072_01,pre-transplant,UC-072,47,pre-transplant (47),1,3487
+211025-LD-146.03,LD_146_03,pre-transplant,UC-086,47,pre-transplant (47),15.589892352227642,8344766
+210226-UC-038.02,UC_038_02,early post-transplant,UC-038,57,early post-transplant (57),2.4709069190247495,6955325
+230831-LD-248.06,LD_248_06,pre-transplant,UC-145,47,pre-transplant (47),1.0015915753247824,7324217
+220418-LD-312.05,LD_312_05,pre-transplant,UC-129,47,pre-transplant (47),1.066850293526383,6648343
+211126-LD-194.05,LD_194_05,pre-transplant,UC-093,47,pre-transplant (47),2.6132690658460853,8327082
+210806-UC-040.01,UC_040_01,early post-transplant,UC-040,57,early post-transplant (57),2.204121352481564,7962097
+220610-UC-136.01,UC_136_01,early post-transplant,UC-136,57,early post-transplant (57),20.156457612741693,9594135
+221007-LD-403.04,LD_403_04,pre-transplant,UC-155,47,pre-transplant (47),1.1537645639818017,2496378
+210828-UC-062.03,UC_062_03,early post-transplant,UC-062,57,early post-transplant (57),3.285853227036929,7194734
+220614-LD-317.11,LD_317_11,pre-transplant,UC-140,47,pre-transplant (47),1.2543317262663245,12218863
+220610-UC-135.01,UC_135_01,early post-transplant,UC-135,57,early post-transplant (57),1.5156217647861248,10899685
+220107-UC-108.01,UC_108_01,early post-transplant,UC-108,57,early post-transplant (57),11.068835096773508,12854244
+210805-UC-066.01,UC_066_01,early post-transplant,UC-066,57,early post-transplant (57),10.295805702525094,8436146
+220107-UC-110.01,UC_110_01,early post-transplant,UC-110,57,early post-transplant (57),9.267494239229285,8622441
+220826-LD-335.02,LD_335_02,pre-transplant,UC-146,47,pre-transplant (47),9.952048548030938,12453514
+210417-UC-052.01,UC_052_01,pre-transplant,UC-052,47,pre-transplant (47),2.4169928271558536,6958095
+230629-UC-058.02,UC_058_02,early post-transplant,UC-058,57,early post-transplant (57),4.610077242823384,83861
+210828-UC-070.01,UC_070_01,early post-transplant,UC-070,57,early post-transplant (57),12.879704957750844,7725168
+210828-UC-069.01,UC_069_01,early post-transplant,UC-069,57,early post-transplant (57),12.232386108309619,10821917
+230110-UC-166.01,UC_166_01,early post-transplant,UC-166,57,early post-transplant (57),1.377733088000508,7715982
+210714-LD-024.02,LD_024_02,early post-transplant,UC-063,57,early post-transplant (57),6.379798098393857,764264
+211126-LD-193.02,LD_193_02,pre-transplant,UC-092,47,pre-transplant (47),20.16335178932878,10376669
+210806-LD-095.02,LD_095_02,pre-transplant,UC-076,47,pre-transplant (47),1.0709085943827652,12834743
+230809-LD-331.02,LD_331_02,early post-transplant,UC-191,57,early post-transplant (57),1.9705377659818788,4543118
+220418-UC-127.01,UC_127_01,early post-transplant,UC-127,57,early post-transplant (57),3.83894733007793,3260720
+EP-SM-80S-S67-Index-C9,UC_013_01,pre-transplant,UC-013,47,pre-transplant (47),2.4282969072959557,7192576
+EP-SM-80S-S38-Index-F5,UC_012_02,early post-transplant,UC-012,57,early post-transplant (57),1.102971451919469,6532572
+EP-SM-80S-S76-Index-D10,UC_010_03,early post-transplant,UC-010,57,early post-transplant (57),2.008408036148365,7575896
+EP-SM-80S-S29-Index-E4,UC_005_01,early post-transplant,UC-005,57,early post-transplant (57),4.444233243501084,6610582
+EP-SM-24S-UC2-1,UC_002_01,early post-transplant,UC-002,57,early post-transplant (57),3.53346587764347,18098592
+EP-SM-24S-UC4-1,UC_004_01,early post-transplant,UC-004,57,early post-transplant (57),11.940772773848995,13423280
+EP-SM-24S-UC1-1,UC_001_01,pre-transplant,UC-001,47,pre-transplant (47),1.1467909376979437,19497628
+EP-SM-24S-UC3-1,UC_003_01,early post-transplant,UC-003,57,early post-transplant (57),9.649336108897892,25227193
+230426-HT-119.01,HT_119_01,pre-transplant,UC-174,47,pre-transplant (47),17.126941253805,9030055
+230426-LD-456.01,LD_456_01,pre-transplant,UC-179,47,pre-transplant (47),1,397965
+230809-UC-196.01,UC_196_01,pre-transplant,UC-196,47,pre-transplant (47),2.4384060303030215,5158369
+230809-LD-491.01,LD_491_01,pre-transplant,UC-186,47,pre-transplant (47),8.464181082200128,1334504
+230809-LD-499.05,LD_499_05,pre-transplant,UC-192,47,pre-transplant (47),1.006686203951666,5590468
+210327-UC-049.01,UC_049_01,pre-transplant,UC-049,47,pre-transplant (47),9.507476252760734,6514587
+220706-LD-327.02,LD_327_02,early post-transplant,UC-142,57,early post-transplant (57),7.483044945721368,7476544
+230426-LD-463.01,LD_463_01,pre-transplant,UC-180,47,pre-transplant (47),1.9673574093719124,6678908
+230110-UC-162.01,UC_162_01,early post-transplant,UC-162,57,early post-transplant (57),6.217942977498241,9239584
+220401-LD-279.05,LD_279_05,pre-transplant,UC-126,47,pre-transplant (47),10.621498193178445,6012658
+211106-UC-085.01,UC_085_01,early post-transplant,UC-085,57,early post-transplant (57),2.896338351255254,10750414
+210226-UC-041.02,UC_041_02,pre-transplant,UC-041,47,pre-transplant (47),5.003971147090797,6781518
+211126-LD-203.04,LD_203_04,pre-transplant,UC-100,47,pre-transplant (47),1.0472251993690949,10450196
+210122-UC-023.01,UC_023_01,early post-transplant,UC-023,57,early post-transplant (57),3.3984081757279174,2673630
+211025-UC-056.01,UC_056_01,early post-transplant,UC-056,57,early post-transplant (57),8.104167891808762,3173653
+230110-LD-389.02,LD_389_02,early post-transplant,UC-148,57,early post-transplant (57),12.070213731072286,11901981
+210121-UC-025.02,UC_025_02,early post-transplant,UC-025,57,early post-transplant (57),5.718315353651805,10003879
+230809-LD-496.02,LD_496_02,pre-transplant,UC-200,47,pre-transplant (47),20.93529914943773,4998729
+220614-LD-330.05,LD_330_05,pre-transplant,UC-138,47,pre-transplant (47),1.0484328106108263,1396134
+220207-UC-113.01,UC_113_01,early post-transplant,UC-113,57,early post-transplant (57),17.69277828601479,10086116
+211025-UC-074.01,UC_074_01,early post-transplant,UC-074,57,early post-transplant (57),1.7673580672144593,11418265
+210828-LD-063.02,LD_063_02,pre-transplant,UC-068,47,pre-transplant (47),5.989021632709616,6296724
+211025-UC-048.02,UC_048_02,early post-transplant,UC-048,57,early post-transplant (57),1.2181084010897327,8556194
+211106-UC-081.02,UC_081_02,early post-transplant,UC-081,57,early post-transplant (57),35.784953901416635,6729349
+220207-LD-258.01,LD_258_01,pre-transplant,UC-112,47,pre-transplant (47),1.5021104476350615,7202623
+230213-LD-032.02,LD_032_02,pre-transplant,UC-067,47,pre-transplant (47),2.1590220460125447,31624431
+211106-UC-007.01,UC_007_01,pre-transplant,UC-007,47,pre-transplant (47),1.2204919132338112,5815601
+210121-UC-026.02,UC_026_02,early post-transplant,UC-026,57,early post-transplant (57),17.719664303099776,9765937
+230110-LD-438.01,LD_438_01,pre-transplant,UC-176,47,pre-transplant (47),1.7746970988277588,9249471
+210125-UC-030.01,UC_030_01,early post-transplant,UC-030,57,early post-transplant (57),12.323102927474956,5427889
+220418-LD-318.01,LD_318_01,pre-transplant,UC-133,47,pre-transplant (47),2.2442194482221702,277377
+210628-UC-060.02,LD_004_02,pre-transplant,UC-060,47,pre-transplant (47),1.3780126413625615,4685299
+211025-LD-135.08,LD_135_08,early post-transplant,UC-087,57,early post-transplant (57),3.4450016034367175,5491282
+230110-LD-440.01,LD_440_01,early post-transplant,UC-170,57,early post-transplant (57),1.0321661897409269,10324385
+211025-UC-046.02,UC_046_02,early post-transplant,UC-046,57,early post-transplant (57),2.242636204103171,3023602
+211004-LD-117-05,LD_117_05,early post-transplant,UC-080,57,early post-transplant (57),1.2588755504367946,11868801
+210520-UC-057.01,UC_057_01,pre-transplant,UC-057,47,pre-transplant (47),26.68171822474503,6337573
+220706-LD-363.03,LD_363_03,early post-transplant,UC-139,57,early post-transplant (57),6.7577159519159835,6914173
+210628-UC-059.02,UC_059_02,early post-transplant,UC-059,57,early post-transplant (57),1.0077401403745787,5255397
+220826-LD-333.06,LD_333_06,early post-transplant,UC-150,57,early post-transplant (57),1.0053169179376604,3351661
+230831-LD-362.04,LD_362_04,pre-transplant,UC-144,47,pre-transplant (47),3.366183700076289,830470
+210125-UC-029.02,UC_029_02,early post-transplant,UC-029,57,early post-transplant (57),11.429779482889893,3145498
+220325-LD-037.04,LD_037_04,early post-transplant,UC-120,57,early post-transplant (57),1.119521339475841,8515755
+220418-UC-128.01,UC_128_01,early post-transplant,UC-128,57,early post-transplant (57),19.672254098742105,6477458
+211126-LD-191.04,LD_191_04,pre-transplant,UC-096,47,pre-transplant (47),9.638898167835624,11801502
+210226-UC-034.05,UC_034_05,early post-transplant,UC-034,57,early post-transplant (57),1.0205406921604154,5296317
+230809-LD-482.02,LD_482_02,pre-transplant,UC-185,47,pre-transplant (47),1.5025954940050577,4644019
+210806-LD-095.03,LD_095_03,late post-transplant,UC-076,86,late post-transplant (86),1.0164064037148421,7734239
+210630-UC-058.03,UC_058_03,late post-transplant,UC-058,86,late post-transplant (86),3.877721375606131,7072220
+230110-UC-172.01,UC_172_01,late post-transplant,UC-172,86,late post-transplant (86),3.193105336734347,11229138
+210805-UC-061.03,UC_061_03,late post-transplant,UC-061,86,late post-transplant (86),1.7985392827599327,5957113
+221007-LD-404.06,LD_404_06,late post-transplant,UC-157,86,late post-transplant (86),5.095289601122976,6266760
+220614-LD-330.08,LD_330_08,late post-transplant,UC-138,86,late post-transplant (86),1.0266648945026657,8904031
+220706-LD-317.12,LD_317_12,late post-transplant,UC-140,86,late post-transplant (86),1.0031289902247544,8221894
+210226-UC-039.01,UC_039_01,late post-transplant,UC-039,86,late post-transplant (86),26.67441796535248,6240016
+210430-UC-041.08,UC_041_08,late post-transplant,UC-041,86,late post-transplant (86),3.0694255171725695,7543316
+211004-UC-077-02,UC_077_02,late post-transplant,UC-077,86,late post-transplant (86),1.2759942510131796,10754037
+210423-UC-052.04,UC_052_04,late post-transplant,UC-052,86,late post-transplant (86),1.0366130121730273,9550586
+230809-LD-492.03,LD_492_03,late post-transplant,UC-188,86,late post-transplant (86),1.0313508238671802,4807156
+211004-UC-082.02,UC_082_02,late post-transplant,UC-082,86,late post-transplant (86),1.2937926224045506,6113845
+220207-LD-234.12,LD_234_12,late post-transplant,UC-115,86,late post-transplant (86),12.522691889756233,9395102
+210628-UC-059.03,UC_059_03,late post-transplant,UC-059,86,late post-transplant (86),1.0002900420499983,5835188
+230809-LD-499.10,LD_499_10,late post-transplant,UC-192,86,late post-transplant (86),1.2535401659043122,5832115
+210806-HT-056.03,HT_056_03,late post-transplant,UC-072,86,late post-transplant (86),11.13484772919866,10492042
+221007-UC-102.05,UC_102_05,late post-transplant,UC-102,86,late post-transplant (86),1.5826254857638251,5394400
+230110-LD-322.05,LD_322_05,late post-transplant,UC-130,86,late post-transplant (86),10.21219823626237,9003976
+230809-LD-331.03,LD_331_03,late post-transplant,UC-191,86,late post-transplant (86),7.5302106791183165,5580434
+230110-LD-415.02,LD_415_02,late post-transplant,UC-164,86,late post-transplant (86),1.085365138439483,7651202
+220418-UC-128.03,UC_128_03,late post-transplant,UC-128,86,late post-transplant (86),11.367231315739948,6947547
+211126-LD-193.09,LD_193_09,late post-transplant,UC-092,86,late post-transplant (86),1.3595250697026657,10885630
+210430-UC-042.04,UC_042_04,late post-transplant,UC-042,86,late post-transplant (86),13.421350369693789,6735882
+220207-LD-218.08,LD_218_08,late post-transplant,UC-114,86,late post-transplant (86),12.631684155477378,9202612
+220207-LD-258.04,LD_258_04,late post-transplant,UC-112,86,late post-transplant (86),2.497771861961117,10719453
+221007-UC-159.01,UC_159_01,late post-transplant,UC-159,86,late post-transplant (86),16.504185596416907,11191682
+220729-UC-013.02,UC_013_02,late post-transplant,UC-013,86,late post-transplant (86),1.0385658296850258,29769477
+211203-LD-136.16,LD_136_16,late post-transplant,UC-083,86,late post-transplant (86),2.740987287440888,6841671
+210125-UC-021.04,UC_021_04,late post-transplant,UC-021,86,late post-transplant (86),1.006218334120636,6681333
+210806-LD-060.09,LD_060_09,late post-transplant,UC-073,86,late post-transplant (86),1.4941614521993904,8523365
+201209-UC-012.04,UC_012_04,late post-transplant,UC-012,86,late post-transplant (86),1.5854250278472768,6206612
+230809-UC-187.01,UC_187_01,late post-transplant,UC-187,86,late post-transplant (86),5.077963454084966,4658330
+220610-UC-131.01,UC_131_01,late post-transplant,UC-131,86,late post-transplant (86),1.0457460491771942,10158677
+210806-UC-040.02,UC_40_02,late post-transplant,UC-040,86,late post-transplant (86),6.102912218237223,7920046
+210805-LD-024.07,LD_024_07,late post-transplant,UC-063,86,late post-transplant (86),9.014938061906095,7973207
+210125-UC-027.02,UC_027_02,late post-transplant,UC-027,86,late post-transplant (86),1.7518914426142083,6310628
+220826-LD-362.05,LD_362_05,late post-transplant,UC-144,86,late post-transplant (86),7.24275121542012,8194487
+210828-LD-032.03,LD_032_03,late post-transplant,UC-067,86,late post-transplant (86),1.0553591187720572,7307598
+220610-LD-312.07,LD_312_07,late post-transplant,UC-129,86,late post-transplant (86),1.728589923281151,9287322
+230110-LD-440.03,LD_440_03,late post-transplant,UC-170,86,late post-transplant (86),1.183880702037579,8501479
+220401-UC-121.02,UC_121_02,late post-transplant,UC-121,86,late post-transplant (86),1.0130610499972017,4118919
+230110-UC-166.05,UC_166_05,late post-transplant,UC-166,86,late post-transplant (86),1.2837961897732455,7140128
+210305-UC-036.04,UC_036_04,late post-transplant,UC-036,86,late post-transplant (86),3.2228675861334004,6381875
+230809-UC-194.01,UC_194_01,late post-transplant,UC-194,86,late post-transplant (86),3.066543421335145,4716449
+EP-SM-80S-S92-Index-D12,UC_007_06,late post-transplant,UC-007,86,late post-transplant (86),1.3122628986858182,6197429
+EP-SM-80S-S35-Index-C5,UC_011_02,late post-transplant,UC-011,86,late post-transplant (86),4.688647398186884,6713171
+EP-SM-80S-S43-Index-C6,UC_008_02,late post-transplant,UC-008,86,late post-transplant (86),1.0870547344027552,8774319
+EP-SM-80S-S57-Index-A8,UC_006_03,late post-transplant,UC-006,86,late post-transplant (86),1.968863434782235,6345913
+EP-SM-24S-UC2-2,UC_002_02,late post-transplant,UC-002,86,late post-transplant (86),5.259112139208422,16358920
+EP-SM-24S-UC3-4,UC_003_04,late post-transplant,UC-003,86,late post-transplant (86),4.156683164232833,26100568
+230426-LD-438.03,LD_438_03,late post-transplant,UC-176,86,late post-transplant (86),2.1084390765159267,8426233
+220706-UC-098.04,UC_098_04,late post-transplant,UC-098,86,late post-transplant (86),1.034884810254004,6763080
+210417-UC-049.08,UC_049_08,late post-transplant,UC-049,86,late post-transplant (86),1.1611102930484676,5308019
+EP-SM-80S-S89-Index-A12,UC_004_03,late post-transplant,UC-004,86,late post-transplant (86),3.9275519378571038,161348
+EP-SM-24S-UC1-2,UC_001_02,late post-transplant,UC-001,86,late post-transplant (86),1.094617042451995,20018409
+211004-LD-102-12,LD_102_12,late post-transplant,UC-079,86,late post-transplant (86),1.02101548549059,11140894
+211203-LD-202.05,LD_202_05,late post-transplant,UC-099,86,late post-transplant (86),4.690078355240083,12527704
+221007-UC-160.01,UC_160_01,late post-transplant,UC-160,86,late post-transplant (86),8.835570622786562,7513793
+220418-LD-279.08,LD_279_08,late post-transplant,UC-126,86,late post-transplant (86),1.0071199934337127,6655110
+220610-LD-318.06,LD_318_06,late post-transplant,UC-133,86,late post-transplant (86),1.22374349966328,187729
+211126-LD-191.08,LD_191_08,late post-transplant,UC-096,86,late post-transplant (86),12.915223714368292,7114306
+210423-UC-046.06,UC_046_06,late post-transplant,UC-046,86,late post-transplant (86),1.0683988967273803,9591052
+211025-UC-068.04,UC_068_04,late post-transplant,UC-068,86,late post-transplant (86),3.208257565394834,2862033
+210307-UC-043.02,UC_043_02,late post-transplant,UC-043,86,late post-transplant (86),4.864723332758384,5583127
+230110-LD-386.07,LD_386_07,late post-transplant,UC-153,86,late post-transplant (86),7.492923197002467,11435684
+210305-UC-031.03,UC_031_03,late post-transplant,UC-031,86,late post-transplant (86),1.0683577977341445,7239886
+230110-UC-173.01,UC_173_01,late post-transplant,UC-173,86,late post-transplant (86),4.891236352606968,11943468
+211004-LD-117-09,LD_117_09,late post-transplant,UC-080,86,late post-transplant (86),3.6380806545375153,10207933
+211203-LD-194.08,LD_194_08,late post-transplant,UC-093,86,late post-transplant (86),5.541248204091805,12227952
+220107-UC-106.01,UC_106_01,late post-transplant,UC-106,86,late post-transplant (86),2.8762914227760192,13093057
+211106-UC-085.04,UC_085_04,late post-transplant,UC-085,86,late post-transplant (86),1.4192368299604947,6652779
+220614-LD-315.05,LD_315_05,late post-transplant,UC-137,86,late post-transplant (86),3.2568868168781773,10675111
+230831-LD-248.07,LD_248_07,late post-transplant,UC-145,86,late post-transplant (86),1.2287476100131107,8067125
+220401-UC-125.02,UC_125_02,late post-transplant,UC-125,86,late post-transplant (86),1.2936689732731312,3470052
+210417-UC-050.02,UC_050_02,late post-transplant,UC-050,86,late post-transplant (86),1.0712970413587468,7167019
+230831-LD-363.04,LD_363_04,late post-transplant,UC-139,86,late post-transplant (86),8.739129544559615,7967835
+210510-UC-045.02,UC_045_02,late post-transplant,UC-045,86,late post-transplant (86),1.177393709249513,6819287
+230526-UC-178.01,UC_178_01,late post-transplant,UC-178,86,late post-transplant (86),1.1011710000824095,5478386
+221005-HT-099.02,HT_099_02,late post-transplant,UC-149,86,late post-transplant (86),9.868924978261772,3189678
+211126-LD-146.09,LD_146_09,late post-transplant,UC-086,86,late post-transplant (86),2.4321557958258273,461460
+221007-UC-154.05,UC_154_05,late post-transplant,UC-154,86,late post-transplant (86),1,330776
+211025-UC-016.01,UC_016_01,late post-transplant,UC-016,86,late post-transplant (86),2.491956603867618,2909220
+211106-UC-037.05,UC_037_05,late post-transplant,UC-037,86,late post-transplant (86),2.619265483347854,421288
+230426-LD-456.05,LD_456_05,late post-transplant,UC-179,86,late post-transplant (86),1.6007672747860016,7658875
+211025-UC-081.03,UC_081_03,late post-transplant,UC-081,86,late post-transplant (86),2.571638472600272,11873439
+220523-DFI.1-Neat,DFI0001,Healthy Donors,NA,36,Healthy Donors (36),15.46278854930146,15670037
+220523-DFI.3-Neat,DFI0003,Healthy Donors,NA,36,Healthy Donors (36),28.462417808856223,26477006
+220523-DFI.4.Neat,DFI0004,Healthy Donors,NA,36,Healthy Donors (36),14.593710542279766,22631417
+210811-DFI.5.stool.S1,DFI0005,Healthy Donors,NA,36,Healthy Donors (36),12.348559147726833,6396748
+210811-DFI6.S1,DFI0006,Healthy Donors,NA,36,Healthy Donors (36),32.92956314992782,8666992
+210811-DFI7.S1,DFI0007,Healthy Donors,NA,36,Healthy Donors (36),24.911208154007227,9343889
+210327-DFI.8,DFI0008,Healthy Donors,NA,36,Healthy Donors (36),19.20457718297576,6186965
+210327-DFI.9,DFI0009,Healthy Donors,NA,36,Healthy Donors (36),28.266901545141256,6640641
+210811-DFI10.screen,DFI0010,Healthy Donors,NA,36,Healthy Donors (36),18.826101144902356,9198383
+210811-DFI11.screen,DFI0011,Healthy Donors,NA,36,Healthy Donors (36),6.721385980346926,9721145
+210811-DFI12.screen,DFI0012,Healthy Donors,NA,36,Healthy Donors (36),7.742376720126423,11148687
+210811-DFI13.Screen,DFI0013,Healthy Donors,NA,36,Healthy Donors (36),27.469198392739916,10107434
+210811-DFI14.Screen,DFI0014,Healthy Donors,NA,36,Healthy Donors (36),21.65480981915747,8385646
+210811-DFI15.Screen,DFI0015,Healthy Donors,NA,36,Healthy Donors (36),23.75305470072284,8777435
+210811-DFI16.Screen,DFI0016,Healthy Donors,NA,36,Healthy Donors (36),15.745661095190265,8168422
+211203-Donor-DFI.17.S,DFI0017,Healthy Donors,NA,36,Healthy Donors (36),9.788805781339995,11891197
+211203-Donor-DFI.18.S,DFI0018,Healthy Donors,NA,36,Healthy Donors (36),18.35811307978525,12115054
+211203-Donor-DFI.19.S,DFI0019,Healthy Donors,NA,36,Healthy Donors (36),29.829198753045276,12349371
+211126-DFI.20.S,DFI0020,Healthy Donors,NA,36,Healthy Donors (36),23.39761355250646,7260875
+211126-DFI.21.S,DFI0021,Healthy Donors,NA,36,Healthy Donors (36),32.13465237880585,6557287
+211126-DFI.22.S,DFI0022,Healthy Donors,NA,36,Healthy Donors (36),24.704445294223778,7689800
+211126-DFI.23.S,DFI0023,Healthy Donors,NA,36,Healthy Donors (36),10.708800528129222,7503421
+211126-DFI.24.S,DFI0024,Healthy Donors,NA,36,Healthy Donors (36),15.814918032036038,7187894
+220325-DFI.25.S,DFI0025,Healthy Donors,NA,36,Healthy Donors (36),15.682580038601367,9111103
+220924-DFI.27,DFI0027,Healthy Donors,NA,36,Healthy Donors (36),14.359375325501306,13223998
+220924-DFI.28,DFI0028,Healthy Donors,NA,36,Healthy Donors (36),22.979953752016947,14170856
+230809-DFI.29.S,DFI0029,Healthy Donors,NA,36,Healthy Donors (36),18.133807165466973,4066631
+230809-DFI.30.S,DFI0030,Healthy Donors,NA,36,Healthy Donors (36),15.534686224455113,4747052
+230809-DFI.31.S,DFI0031,Healthy Donors,NA,36,Healthy Donors (36),20.52324908147045,4534436
+230809-DFI.32.S,DFI0032,Healthy Donors,NA,36,Healthy Donors (36),29.748713373077507,2910199
+230809-DFI.33.S,DFI0033,Healthy Donors,NA,36,Healthy Donors (36),15.56389033221841,5691356
+230809-DFI.34.S,DFI0034,Healthy Donors,NA,36,Healthy Donors (36),13.833081118726168,5706701
+20250429_CLIN_SSG_DFI_35_S,DFI0035,Healthy Donors,NA,36,Healthy Donors (36),19.34843715299237,18976772
+20250429_CLIN_SSG_DFI_36_S,DFI0036,Healthy Donors,NA,36,Healthy Donors (36),20.726532416259072,23225250
+20250506_CLIN_SSG_DFI_37_S,DFI0037,Healthy Donors,NA,36,Healthy Donors (36),7.251486242658015,23158837
+20250710_CLIN_SSG_DFI_38_S,DFI0038,Healthy Donors,NA,36,Healthy Donors (36),18.37295747188023,13101101

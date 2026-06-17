@@ -1,0 +1,43 @@
+2026-06-10 10:14:25.422812 INFO::Writing function arguments to log file
+2026-06-10 10:14:25.428185 DEBUG::Function arguments
+2026-06-10 10:14:25.428904 DEBUG::Output folder: data/clusterMaaslin/family
+2026-06-10 10:14:25.431103 DEBUG::Min Abundance: 0.001000
+2026-06-10 10:14:25.432224 DEBUG::Min Prevalence: 0.100000
+2026-06-10 10:14:25.432805 DEBUG::Normalization: NONE
+2026-06-10 10:14:25.434392 DEBUG::Transform: LOG
+2026-06-10 10:14:25.435054 DEBUG::Analysis method: LM
+2026-06-10 10:14:25.437863 DEBUG::Max significance: 0.100000
+2026-06-10 10:14:25.438595 DEBUG::Random effects: studyid
+2026-06-10 10:14:25.439091 DEBUG::Fixed effects: cl
+2026-06-10 10:14:25.43967 DEBUG::Correction method: BH
+2026-06-10 10:14:25.440152 DEBUG::Standardize: TRUE
+2026-06-10 10:14:25.440577 DEBUG::Cores: 14
+2026-06-10 10:14:25.441026 INFO::Verifying options selected are valid
+2026-06-10 10:14:25.442385 INFO::Determining format of input files
+2026-06-10 10:14:25.446919 INFO::Input format is data samples as rows and metadata samples as rows
+2026-06-10 10:14:25.451501 DEBUG::A total of 190 samples were found in both the data and metadata
+2026-06-10 10:14:25.451989 DEBUG::Reordering data/metadata to use same sample ordering
+2026-06-10 10:14:25.458149 INFO::Formula for random effects: expr ~ (1 | studyid)
+2026-06-10 10:14:25.462895 INFO::Formula for fixed effects: expr ~  cl
+2026-06-10 10:14:25.473283 INFO::Filter data based on min abundance and min prevalence
+2026-06-10 10:14:25.478061 INFO::Total samples in data: 190
+2026-06-10 10:14:25.48149 INFO::Min samples required with min abundance for a feature not to be filtered: 19.000000
+2026-06-10 10:14:25.493709 INFO::Total filtered features: 56
+2026-06-10 10:14:25.498241 INFO::Filtered feature names from abundance and prevalence filtering: Corynebacteriaceae, Debaryomycetaceae, Prevotellaceae, Victivallaceae, Odoribacteraceae, Clostridia_unclassified, Bacteria_unclassified, Firmicutes_unclassified, Candidatus_Borkfalkiaceae, Metschnikowiaceae, Turicibacteraceae, Bacillales_unclassified, Christensenellaceae, Candidatus_Saccharibacteria_unclassified, Atopobiaceae, Methanobacteriaceae, Peptococcaceae, Akkermansiaceae, Propionibacteriaceae, Metamycoplasmataceae, Neisseriaceae, Pasteurellaceae, Selenomonadaceae, Sphingomonadaceae, Fusobacteriaceae, Campylobacteraceae, Carnobacteriaceae, Barnesiellaceae, Pseudomonadaceae, Erwiniaceae, Dermabacteraceae, Coprobacillaceae, Bianqueaceae, Yersiniaceae, Synergistaceae, Lawsonellaceae, Morganellaceae, Peptoniphilaceae, Aerococcaceae, Porphyromonadaceae, Dysgonomonadaceae, Bacillaceae, Hafniaceae, Bacteroidales_unclassified, Flavobacteriaceae, Candidatus_Saccharimonadaceae, Pichiaceae, Burkholderiaceae, Oxalobacteraceae, Candidatus_Gastranaerophilales_unclassified, Alcaligenaceae, Tissierellia_unclassified, Leptotrichiaceae, Candidatus_Nanosynbacteraceae, Candidatus_Nanoperiomorbaceae, Nitrobacteraceae
+2026-06-10 10:14:25.510147 INFO::Total filtered features with variance filtering: 0
+2026-06-10 10:14:25.514731 INFO::Filtered feature names from variance filtering:
+2026-06-10 10:14:25.517985 INFO::Running selected normalization method: NONE
+2026-06-10 10:14:25.52383 INFO::Applying z-score to standardize continuous metadata
+2026-06-10 10:14:25.543617 INFO::Running selected transform method: LOG
+2026-06-10 10:14:25.553866 INFO::Running selected analysis method: LM
+2026-06-10 10:14:25.558599 INFO::Creating cluster of 14 R processes
+2026-06-10 10:14:42.616382 INFO::Counting total values for each feature
+2026-06-10 10:14:42.635895 INFO::Writing filtered data to file data/clusterMaaslin/family/features/filtered_data.tsv
+2026-06-10 10:14:42.650281 INFO::Writing filtered, normalized data to file data/clusterMaaslin/family/features/filtered_data_norm.tsv
+2026-06-10 10:14:42.660927 INFO::Writing filtered, normalized, transformed data to file data/clusterMaaslin/family/features/filtered_data_norm_transformed.tsv
+2026-06-10 10:14:42.678378 INFO::Writing residuals to file data/clusterMaaslin/family/fits/residuals.rds
+2026-06-10 10:14:42.688748 INFO::Writing fitted values to file data/clusterMaaslin/family/fits/fitted.rds
+2026-06-10 10:14:42.701737 INFO::Writing extracted random effects to file data/clusterMaaslin/family/fits/ranef.rds
+2026-06-10 10:14:42.707175 INFO::Writing all results to file (ordered by increasing q-values): data/clusterMaaslin/family/all_results.tsv
+2026-06-10 10:14:42.716735 INFO::Writing the significant results (those which are less than or equal to the threshold of 0.100000 ) to file (ordered by increasing q-values): data/clusterMaaslin/family/significant_results.tsv
+2026-06-10 10:14:42.723879 INFO::Writing heatmap of significant results to file: data/clusterMaaslin/family/heatmap.pdf

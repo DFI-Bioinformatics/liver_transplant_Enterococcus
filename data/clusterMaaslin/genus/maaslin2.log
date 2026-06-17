@@ -1,0 +1,43 @@
+2026-06-10 10:14:07.369424 INFO::Writing function arguments to log file
+2026-06-10 10:14:07.372486 DEBUG::Function arguments
+2026-06-10 10:14:07.373083 DEBUG::Output folder: data/clusterMaaslin/genus
+2026-06-10 10:14:07.373714 DEBUG::Min Abundance: 0.001000
+2026-06-10 10:14:07.374992 DEBUG::Min Prevalence: 0.100000
+2026-06-10 10:14:07.376226 DEBUG::Normalization: NONE
+2026-06-10 10:14:07.37806 DEBUG::Transform: LOG
+2026-06-10 10:14:07.378753 DEBUG::Analysis method: LM
+2026-06-10 10:14:07.379932 DEBUG::Max significance: 0.100000
+2026-06-10 10:14:07.380483 DEBUG::Random effects: studyid
+2026-06-10 10:14:07.382796 DEBUG::Fixed effects: cl
+2026-06-10 10:14:07.384521 DEBUG::Correction method: BH
+2026-06-10 10:14:07.385083 DEBUG::Standardize: TRUE
+2026-06-10 10:14:07.386726 DEBUG::Cores: 14
+2026-06-10 10:14:07.387328 INFO::Verifying options selected are valid
+2026-06-10 10:14:07.394045 INFO::Determining format of input files
+2026-06-10 10:14:07.406673 INFO::Input format is data samples as rows and metadata samples as rows
+2026-06-10 10:14:07.42152 DEBUG::A total of 190 samples were found in both the data and metadata
+2026-06-10 10:14:07.422211 DEBUG::Reordering data/metadata to use same sample ordering
+2026-06-10 10:14:07.438162 INFO::Formula for random effects: expr ~ (1 | studyid)
+2026-06-10 10:14:07.441197 INFO::Formula for fixed effects: expr ~  cl
+2026-06-10 10:14:07.445772 INFO::Filter data based on min abundance and min prevalence
+2026-06-10 10:14:07.449552 INFO::Total samples in data: 190
+2026-06-10 10:14:07.453949 INFO::Min samples required with min abundance for a feature not to be filtered: 19.000000
+2026-06-10 10:14:07.481623 INFO::Total filtered features: 244
+2026-06-10 10:14:07.487141 INFO::Filtered feature names from abundance and prevalence filtering: Saccharomyces, Corynebacterium, Candida, Segatella, Ruminococcus, Clostridiaceae_unclassified, Lachnospira, Evtepia, Coprococcus, Intestinibacter, Dysosmobacter, Pseudoflavonifractor, Victivallis, Vescimonas, Lentihominibacter, Odoribacter, Lawsonibacter, Sutterella, Faecalibacillus, Gordonibacter, Sellimonas, Clostridia_unclassified, Bacteria_unclassified, Eisenbergiella, Wansuia, Lacrimispora, Slackia, Holdemania, Faecalicatena, Hydrogenoanaerobacterium, Firmicutes_unclassified, Neobittarella, Hydrogeniiclostridium, Lachnotalea, Candidatus_Borkfalkia, Phocea, Intestinimonas, Massilioclostridium, Cuneatibacter, Catenibacillus, Lactonifactor, Anaeromassilibacillus, Massiliimalia, Clavispora, Tyzzerella, Longicatena, Varibaculum, Mogibacterium, Turicibacter, Zhenpiania, Gemella, Christensenella, Candidatus_Saccharibacteria_unclassified, Bittarella, Lancefieldella, Colibacter, Methanobrevibacter, Frisingicoccus, Citrobacter, Massilimicrobiota, Oscillibacter, Peptococcus, Longibaculum, Negativibacillus, Anaerotruncus, Pediococcus, Butyricicoccus, Luoshenia, Provencibacterium, Paraprevotella, Amedibacillus, Akkermansia, Neglectibacter, Anaerofustis, Adlercreutzia, Propionibacterium, Ligilactobacillus, Paraclostridium, Metamycoplasma, Olsenella, Neisseria, Haemophilus, Atopobium, Weissella, Megamonas, Schaalia, Acidaminococcus, Sphingobium, Veillonellaceae_unclassified, Diplocloster, Nakaseomyces, Parascardovia, Lactiplantibacillus, Eubacteriales_Family_XIII_Incertae_Sedis_unclassified, Oliverpabstia, Anaeroglobus, Enterobacter, Parasutterella, Agathobaculum, Brotolimicola, Colidextribacter, Fusobacterium, Alloscardovia, Campylobacter, Cryptobacterium, Leuconostoc, Cutibacterium, Carnobacterium, Prevotella, Anaerotignum, Phascolarctobacterium, Coprobacter, Butyricimonas, Pseudomonas, Dellaglioa, Pantoea, Intestinibacillus, Latilactobacillus, Barnesiella, Raoultibacter, Dermabacter, Terrisporobacter, Granulicatella, Duodenibacillus, Rikenellaceae_unclassified, Desulfovibrio, Senegalimassilia, Coprobacillus, Merdimonas, Bianquea, Guopingia, Anaerovorax, Serratia, Catenibacterium, Faecalimonas, Paraeggerthella, Anaerosporobacter, Romboutsia, Clostridioides, Lachnoanaerobaculum, Pyramidobacter, Actinobaculum, Raoultella, Dielma, Scardovia, Levilactobacillus, Lawsonella, Pseudoramibacter, Morganella, Proteus, Anaerococcus, Peptoniphilus, Robinsoniella, Alterileibacterium, Finegoldia, Christensenellaceae_unclassified, Parvimonas, Prevotellamassilia, Oribacterium, Abiotrophia, Arachnia, Peptostreptococcus, Shuttleworthia, Schleiferilactobacillus, Holdemanella, Emergencia, Porphyromonas, Bariatricus, Paucilactobacillus, Luxibacter, Dysgonomonas, Rahnella, Erwinia, Monoglobus, Drancourtella, Massilicoli, Beduini, Caldibacillus, Pygmaiobacter, Hafnia, Aggregatibacter, Allisonella, Cellulosilyticum, Paratractidigestivibacter, Simiaoa, Parolsenella, Mitsuokella, Methanosphaera, Bacteroidales_unclassified, Eubacteriaceae_unclassified, Capnocytophaga, Paeniclostridium, Pseudoruminococcus, Solobacterium, Faecalicoccus, Candidatus_Nanosynsacchari, Pichia, Burkholderia, Wujia, Enorma, Oxalobacter, Ligaoa, Anaerosacchariphilus, Youxingia, Enteroscipio, Candidatus_Gastranaerophilales_unclassified, Ellagibacter, Kluyvera, Achromobacter, Baileyella, Erysipelotrichaceae_unclassified, Amedibacterium, Cloacibacillus, Ezakiella, Fenollaria, Leptotrichia, Murimonas, Anaerofilum, Bulleidia, Candidatus_Nanosynbacter, Candidatus_Nanoperiomorbus, Eggerthia, Gardnerella, Berryella, Fannyhessea, Johnsonella, Pauljensenia, Afipia, Peptidiphaga, Massilistercora, Levyella, Marvinbryantia, Fumia, Jingyaoa, Faecalitalea, Yanshouia, Traorella, Angelakisella, Obesumbacterium, Lautropia, Eikenella, Kingella, Alloprevotella, Sarcina
+2026-06-10 10:14:07.500484 INFO::Total filtered features with variance filtering: 0
+2026-06-10 10:14:07.503679 INFO::Filtered feature names from variance filtering:
+2026-06-10 10:14:07.507271 INFO::Running selected normalization method: NONE
+2026-06-10 10:14:07.511328 INFO::Applying z-score to standardize continuous metadata
+2026-06-10 10:14:07.525135 INFO::Running selected transform method: LOG
+2026-06-10 10:14:07.539492 INFO::Running selected analysis method: LM
+2026-06-10 10:14:07.547213 INFO::Creating cluster of 14 R processes
+2026-06-10 10:14:25.309585 INFO::Counting total values for each feature
+2026-06-10 10:14:25.331575 INFO::Writing filtered data to file data/clusterMaaslin/genus/features/filtered_data.tsv
+2026-06-10 10:14:25.347422 INFO::Writing filtered, normalized data to file data/clusterMaaslin/genus/features/filtered_data_norm.tsv
+2026-06-10 10:14:25.358692 INFO::Writing filtered, normalized, transformed data to file data/clusterMaaslin/genus/features/filtered_data_norm_transformed.tsv
+2026-06-10 10:14:25.384491 INFO::Writing residuals to file data/clusterMaaslin/genus/fits/residuals.rds
+2026-06-10 10:14:25.388479 INFO::Writing fitted values to file data/clusterMaaslin/genus/fits/fitted.rds
+2026-06-10 10:14:25.392943 INFO::Writing extracted random effects to file data/clusterMaaslin/genus/fits/ranef.rds
+2026-06-10 10:14:25.399786 INFO::Writing all results to file (ordered by increasing q-values): data/clusterMaaslin/genus/all_results.tsv
+2026-06-10 10:14:25.406213 INFO::Writing the significant results (those which are less than or equal to the threshold of 0.100000 ) to file (ordered by increasing q-values): data/clusterMaaslin/genus/significant_results.tsv
+2026-06-10 10:14:25.411433 INFO::Writing heatmap of significant results to file: data/clusterMaaslin/genus/heatmap.pdf
