@@ -341,4 +341,5 @@ mpa.gg <-  mpa.plt %>%
 
 mpa.gg
 
-ggsave("figures/SuppFig4_cluster.pdf")
+ggsave("figures/SuppFig4_cluster.pdf",
+       height = 4.95, width = 10.5)
